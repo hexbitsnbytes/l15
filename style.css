@@ -3,6 +3,16 @@ body {
   color: white;
   font: 1.3rem Inconsolata, monospace;
 }
-pre {
-    color: green;
+
+.bday {
+    color: yellow
+}
+.green {
+    color: green
+}
+.text {
+    color: white
+}
+.message {
+    color: rebeccapurple
 }

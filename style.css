@@ -1,0 +1,8 @@
+body {
+  background-color: black;
+  color: white;
+  font: 1.3rem Inconsolata, monospace;
+}
+pre {
+    color: green;
+}
